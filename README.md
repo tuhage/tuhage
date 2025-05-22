@@ -5,8 +5,8 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2736--271X-44CC11?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2736-271X)
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/38546964800)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=REPLACE_ME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tuhage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhage/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tuhage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuhage/](https://www.linkedin.com/in/tu%C4%9Frul-hakan-gen%C3%A7t%C3%BCrk-878324196))
 [![Gmail](https://img.shields.io/badge/Email-tuhage%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuhage@gmail.com)
 
 </div>
