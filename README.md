@@ -74,6 +74,13 @@
   </blockquote>
 </div>
 
+<div align="center">
+  <blockquote>
+    <p><em>"If you look for perfection, you'll never be content."</em></p>
+Leo Tolstoy
+  </blockquote>
+</div>
+
 <br>
 
 <div align="center">
