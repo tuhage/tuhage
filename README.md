@@ -76,13 +76,3 @@
 
 
 
-
-<div align="center">
- 
-  <img src="https://profile-counter.glitch.me/tuhage/count.svg" />
-   <br><sup>Profile visits</sup>
-</div>
-
-
-
-
