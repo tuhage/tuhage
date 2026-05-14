@@ -65,8 +65,6 @@
 </div>
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuhage&theme=terminal&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=FFFFFF)
-
 <div align="center">
   <blockquote>
     <p><em>"The important thing is not to stop questioning. Curiosity has its own reason for existence."</em></p>
